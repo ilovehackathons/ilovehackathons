@@ -7,12 +7,12 @@
 # PRs
 ## Merged
 1. https://github.com/microsoft/playwright/pull/17128
+2. https://github.com/github/training-kit/pull/917
 ## Open
-1. https://github.com/github/training-kit/pull/917
-2. https://github.com/trufflesuite/trufflesuite.com/pull/1307
-3. https://github.com/scaffold-eth/scaffold-eth/pull/867
-4. https://github.com/MonacoProtocol/client/pull/10
-5. https://github.com/microsoft/TypeScript-Website/pull/2569
+1. https://github.com/trufflesuite/trufflesuite.com/pull/1307
+2. https://github.com/scaffold-eth/scaffold-eth/pull/867
+3. https://github.com/MonacoProtocol/client/pull/10
+4. https://github.com/microsoft/TypeScript-Website/pull/2569
 ## Rejected
 1. https://github.com/getify/You-Dont-Know-JS/pull/1803
 # Issues
