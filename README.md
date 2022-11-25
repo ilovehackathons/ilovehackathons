@@ -15,6 +15,7 @@
 2. https://github.com/MonacoProtocol/client/pull/10
 3. https://github.com/microsoft/TypeScript-Website/pull/2569
 4. https://github.com/remix-run/grunge-stack/pull/111
+5. https://github.com/architect/plugin-typescript/pull/8
 ### Gas Fee Snap
 1. https://github.com/Montoya/gas-fee-snap/pull/40
 2. https://github.com/Montoya/gas-fee-snap/pull/41
