@@ -15,6 +15,7 @@
 4. https://github.com/remix-run/grunge-stack/pull/111
 5. https://github.com/Montoya/gas-fee-snap/pull/43
 6. https://github.com/NomicFoundation/hardhat/pull/3459
+7. https://github.com/sc-forks/solidity-coverage/pull/775
 ## Rejected
 1. https://github.com/getify/You-Dont-Know-JS/pull/1803
 # Issues
