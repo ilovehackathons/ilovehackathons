@@ -8,6 +8,7 @@
 3. https://github.com/trufflesuite/trufflesuite.com/pull/1307
 4. gas fee snap [#39](https://github.com/Montoya/gas-fee-snap/pull/39) [#40](https://github.com/Montoya/gas-fee-snap/pull/40) [#41](https://github.com/Montoya/gas-fee-snap/pull/41) [#42](https://github.com/Montoya/gas-fee-snap/pull/42)
 5. https://github.com/architect/plugin-typescript/pull/8
+6. https://github.com/NomicFoundation/hardhat/pull/3464
 ## Open
 1. https://github.com/scaffold-eth/scaffold-eth/pull/867
 2. https://github.com/MonacoProtocol/client/pull/10
