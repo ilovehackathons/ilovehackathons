@@ -22,4 +22,5 @@
 # Issues
 ## Open
 1. https://github.com/microsoft/TypeScript-Website/issues/2568
-2. https://github.com/NomicFoundation/hardhat/issues/3462
+## Resolved
+1. https://github.com/NomicFoundation/hardhat/issues/3462
