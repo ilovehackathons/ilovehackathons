@@ -21,7 +21,7 @@
 1. https://github.com/getify/You-Dont-Know-JS/pull/1803
 2. https://github.com/scaffold-eth/scaffold-eth/pull/867
 # Issues
-## Open
-1. https://github.com/microsoft/TypeScript-Website/issues/2568
 ## Resolved
 1. https://github.com/NomicFoundation/hardhat/issues/3462
+## Open
+1. https://github.com/microsoft/TypeScript-Website/issues/2568
