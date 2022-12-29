@@ -16,6 +16,7 @@
 4. https://github.com/Montoya/gas-fee-snap/pull/43
 5. https://github.com/NomicFoundation/hardhat/pull/3459
 6. https://github.com/sc-forks/solidity-coverage/pull/775
+7. https://github.com/paritytech/ink/pull/1570
 ## Rejected
 1. https://github.com/getify/You-Dont-Know-JS/pull/1803
 2. https://github.com/scaffold-eth/scaffold-eth/pull/867
