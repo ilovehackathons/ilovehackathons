@@ -26,5 +26,6 @@
 ## Resolved
 1. https://github.com/NomicFoundation/hardhat/issues/3462
 ## Open
+1. https://github.com/coral-xyz/anchor/issues/2446
+## Closed
 1. https://github.com/microsoft/TypeScript-Website/issues/2568
-2. https://github.com/coral-xyz/anchor/issues/2446
